@@ -75,6 +75,6 @@ The Convolutional network architecture is as follows :
 `_Ow = nw-fw+2p/s+1_`
     
 where n -> input size,  
-p -> padding, 
-s -> stride length, 
-f -> filter size
+p -> padding,    
+s -> stride length,   
+f -> filter size.    
